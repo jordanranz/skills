@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Scouter"
+  short_description: "Measure and explain an agent skill power level"
+  default_prompt: "Use $skill-scouter to inspect this skill and render its Power Level character card."
