@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage Job Search"
+  short_description: "Prioritize and maintain a focused job search"
+  default_prompt: "Use $manage-job-search to review my active search and recommend the next best actions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evaluate Role Fit"
+  short_description: "Evaluate job fit using verified evidence"
+  default_prompt: "Use $evaluate-role-fit to assess this role against my experience and priorities."
