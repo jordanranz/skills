@@ -1,3 +1,7 @@
 name: career
 description: Skills for professional development and job search.
-skills: []
+skills:
+  - skills/career/resume-refinement
+  - skills/career/evaluate-role-fit
+  - skills/career/refine-application-response
+  - skills/career/manage-job-search

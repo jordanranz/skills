@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Refinement"
+  short_description: "Tailor resumes without stretching the facts"
+  default_prompt: "Use $resume-refinement to tailor my resume for this role and verify the final PDF."

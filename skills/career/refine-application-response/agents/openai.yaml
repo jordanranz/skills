@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refine Application Response"
+  short_description: "Develop authentic application responses"
+  default_prompt: "Use $refine-application-response to interview me and refine this application answer."
