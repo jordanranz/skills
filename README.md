@@ -12,6 +12,7 @@ Reusable agent skills by Jordan Ranz, organized around four areas of work.
 ## Available skills
 
 - [`skill-scouter`](skills/engineering/skill-scouter) — inspect an agent skill and render an evidence-backed RPG-style Power Level character card.
+- [`skillprint`](skills/engineering/skillprint) — compile an agent skill into a deterministic, source-traceable workflow graph.
 - [`resume-refinement`](skills/career/resume-refinement) — tailor and verify resumes without stretching the facts.
 - [`evaluate-role-fit`](skills/career/evaluate-role-fit) — compare opportunities against verified experience, goals, and constraints.
 - [`refine-application-response`](skills/career/refine-application-response) — interview for and refine authentic application answers.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skillprint"
+  short_description: "Turn agent skills into inspectable workflow maps"
+  default_prompt: "Use $skillprint to compile this agent skill into a source-traceable workflow visualization."

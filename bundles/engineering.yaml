@@ -2,3 +2,4 @@ name: engineering
 description: Skills for building and improving software and agent systems.
 skills:
   - skills/engineering/skill-scouter
+  - skills/engineering/skillprint
