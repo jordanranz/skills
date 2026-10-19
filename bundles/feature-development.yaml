@@ -1,0 +1,7 @@
+name: feature-development
+description: Implement and validate project changes, with separate instruction maintenance workflows.
+skills:
+  - skills/engineering/project-validation
+  - skills/engineering/feature-workflow
+  - skills/engineering/maintain-project-validation
+  - skills/engineering/maintain-feature-workflow
